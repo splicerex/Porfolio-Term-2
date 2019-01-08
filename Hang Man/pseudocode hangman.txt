@@ -1,0 +1,21 @@
+import random and time
+have a list of art that shows the hangman
+have max number of moves 
+variable with all the words being used
+random choice to grab a random word
+used to see what letters the user puts all ready
+global all of them in a function
+while loop
+print the hangman
+print what they used
+print what the word is so far
+input from user for guess
+make guess upper
+append what they guessed
+if guess is in word 
+print yes it is in word
+for i in range of word length
+if guess i equil to word new word
+if wrong print new body part on hangman
+if right print you are correct
+loops back

@@ -1,0 +1,81 @@
+Kyle's Python Trivia Game
+Display
+What displays words on the screen?
+Print
+Def
+If
+Else
+0
+Print, prints out the word you put in.
+List
+What are lists which can’t be edited?
+List
+If 
+Else 
+Tuple
+3
+Tuples are immutable which means can't be changed.
+Function
+What do you use to make a function?
++
+Print
+Def
+#
+2
+Def makes the function
+Holding
+What is a storage placeholder for text and numbers?
+Variable
+If
+Print
+Def
+0
+A variable holds text, and numbers so you can call it easier.
+Integer
+What does integer refer to?
+Numbers
+Letters
+Words
+Cats
+0
+Integer refers to numbers.
+String
+What does string refer to?
+Tacos
+Characters
+Numbers
+Python
+1
+String is a sequence of characters.
+Adding
+What do you use to add to a list?
+Normies
+True
+False
+Append
+3
+Append adds to a list or tuple.
+While
+What does while do?
+Loops
+Hits
+Fights
+Run
+0
+While will loop as many times as you want.
+Language
+What programing language are we using?
+Java
+C++
+A++
+Python
+3
+Python well if you're in this class you should know by now I would hope.
+Import
+What is something that you can import?
+Cat
+Human
+Turtle
+Dog
+2
+You can import turtle.

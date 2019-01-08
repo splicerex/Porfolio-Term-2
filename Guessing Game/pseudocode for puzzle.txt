@@ -1,0 +1,47 @@
+pseudocode 
+kyle baldwin
+4-5
+11-26-18
+
+global points
+
+variable for puzzle
+variable for displaying a nice looking puzzle
+
+def a point system 
+display how many points the user got
+
+def word 1
+take puzzle and point as global
+varibale for attempts 
+loop question
+ask user question
+if wrong 
+add an attempt
+display your wrong
+if correct
+add an attempt
+display puzzle 
+ask user where the word is
+add an attempt
+if correct 
+display good job
+go to the text word 
+if wrong
+display your wrong try again
+loops back
+REPEAT THAT 10 TIMES
+
+
+
+word 1 programing language						Python			87868584838281
+word 2 decimal numbers							Float			3334353637
+word 3 numbers								integer			68584838281808
+word 4 defining something						Function		0111213141516171
+word 5 stop while loop							break			2625242322
+word 6 used to determine, which statements are going to be executed	if			8788
+word 7 loops(Two words)							while loop		919293949596979899
+word 8 display words							print			0908070605
+word 9 reserved memory locations to store values			Variables		807060504030201000
+word 10 sequence of characters						String			394959697989
+		
